@@ -1,0 +1,4 @@
+D:\DEBUG\C#\Youtube 视频同步\FileSize_Server\FileSize_Server\bin\Debug\FileSize_Server.exe
+D:\DEBUG\C#\Youtube 视频同步\FileSize_Server\FileSize_Server\bin\Debug\FileSize_Server.pdb
+D:\DEBUG\C#\Youtube 视频同步\FileSize_Server\FileSize_Server\obj\x86\Debug\FileSize_Server.exe
+D:\DEBUG\C#\Youtube 视频同步\FileSize_Server\FileSize_Server\obj\x86\Debug\FileSize_Server.pdb

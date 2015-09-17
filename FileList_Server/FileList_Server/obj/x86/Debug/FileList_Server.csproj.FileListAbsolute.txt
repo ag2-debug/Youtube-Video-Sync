@@ -1,0 +1,4 @@
+D:\DEBUG\C#\Youtube 视频同步\FileList_Server\FileList_Server\bin\Debug\FileList_Server.exe
+D:\DEBUG\C#\Youtube 视频同步\FileList_Server\FileList_Server\bin\Debug\FileList_Server.pdb
+D:\DEBUG\C#\Youtube 视频同步\FileList_Server\FileList_Server\obj\x86\Debug\FileList_Server.exe
+D:\DEBUG\C#\Youtube 视频同步\FileList_Server\FileList_Server\obj\x86\Debug\FileList_Server.pdb

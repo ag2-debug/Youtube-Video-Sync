@@ -1,0 +1,4 @@
+D:\DEBUG\C#\Youtube 视频同步\FileSizer\FileSizer\bin\Debug\FileSizer.exe
+D:\DEBUG\C#\Youtube 视频同步\FileSizer\FileSizer\bin\Debug\FileSizer.pdb
+D:\DEBUG\C#\Youtube 视频同步\FileSizer\FileSizer\obj\x86\Debug\FileSizer.exe
+D:\DEBUG\C#\Youtube 视频同步\FileSizer\FileSizer\obj\x86\Debug\FileSizer.pdb

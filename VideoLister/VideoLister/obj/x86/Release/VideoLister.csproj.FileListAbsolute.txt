@@ -1,0 +1,4 @@
+D:\DEBUG\C#\Youtube 视频同步\VideoLister\VideoLister\bin\Release\VideoLister.exe
+D:\DEBUG\C#\Youtube 视频同步\VideoLister\VideoLister\bin\Release\VideoLister.pdb
+D:\DEBUG\C#\Youtube 视频同步\VideoLister\VideoLister\obj\x86\Release\VideoLister.exe
+D:\DEBUG\C#\Youtube 视频同步\VideoLister\VideoLister\obj\x86\Release\VideoLister.pdb

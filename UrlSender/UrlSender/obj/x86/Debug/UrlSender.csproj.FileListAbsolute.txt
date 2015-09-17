@@ -1,0 +1,4 @@
+D:\DEBUG\C#\Youtube 视频同步\UrlSender\UrlSender\bin\Debug\UrlSender.exe
+D:\DEBUG\C#\Youtube 视频同步\UrlSender\UrlSender\bin\Debug\UrlSender.pdb
+D:\DEBUG\C#\Youtube 视频同步\UrlSender\UrlSender\obj\x86\Debug\UrlSender.exe
+D:\DEBUG\C#\Youtube 视频同步\UrlSender\UrlSender\obj\x86\Debug\UrlSender.pdb

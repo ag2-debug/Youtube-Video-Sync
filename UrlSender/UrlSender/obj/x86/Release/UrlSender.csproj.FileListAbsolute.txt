@@ -1,0 +1,5 @@
+D:\DEBUG\C#\Youtube 视频同步\UrlSender\UrlSender\bin\Release\UrlSender.exe
+D:\DEBUG\C#\Youtube 视频同步\UrlSender\UrlSender\bin\Release\UrlSender.pdb
+D:\DEBUG\C#\Youtube 视频同步\UrlSender\UrlSender\obj\x86\Release\UrlSender.exe
+D:\DEBUG\C#\Youtube 视频同步\UrlSender\UrlSender\obj\x86\Release\UrlSender.pdb
+D:\DEBUG\C#\Youtube 视频同步\UrlSender\UrlSender\obj\x86\Release\UrlSender.csprojResolveAssemblyReference.cache

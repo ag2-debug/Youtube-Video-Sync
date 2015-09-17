@@ -1,0 +1,4 @@
+D:\DEBUG\C#\Youtube 视频同步\UserLooginTest_Concole\UserLooginTest_Concole\bin\Release\UserLooginTest_Concole.exe
+D:\DEBUG\C#\Youtube 视频同步\UserLooginTest_Concole\UserLooginTest_Concole\bin\Release\UserLooginTest_Concole.pdb
+D:\DEBUG\C#\Youtube 视频同步\UserLooginTest_Concole\UserLooginTest_Concole\obj\x86\Release\UserLooginTest_Concole.exe
+D:\DEBUG\C#\Youtube 视频同步\UserLooginTest_Concole\UserLooginTest_Concole\obj\x86\Release\UserLooginTest_Concole.pdb

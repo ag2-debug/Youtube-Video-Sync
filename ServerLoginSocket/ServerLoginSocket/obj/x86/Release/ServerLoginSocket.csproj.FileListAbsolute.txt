@@ -1,0 +1,4 @@
+D:\DEBUG\C#\Youtube 视频同步\ServerLoginSocket\ServerLoginSocket\bin\Release\ServerLoginSocket.exe
+D:\DEBUG\C#\Youtube 视频同步\ServerLoginSocket\ServerLoginSocket\bin\Release\ServerLoginSocket.pdb
+D:\DEBUG\C#\Youtube 视频同步\ServerLoginSocket\ServerLoginSocket\obj\x86\Release\ServerLoginSocket.exe
+D:\DEBUG\C#\Youtube 视频同步\ServerLoginSocket\ServerLoginSocket\obj\x86\Release\ServerLoginSocket.pdb

@@ -1,0 +1,4 @@
+D:\DEBUG\C#\Youtube 视频同步\downloader_server\downloader_server\bin\Debug\downloader_server.exe
+D:\DEBUG\C#\Youtube 视频同步\downloader_server\downloader_server\bin\Debug\downloader_server.pdb
+D:\DEBUG\C#\Youtube 视频同步\downloader_server\downloader_server\obj\x86\Debug\downloader_server.exe
+D:\DEBUG\C#\Youtube 视频同步\downloader_server\downloader_server\obj\x86\Debug\downloader_server.pdb

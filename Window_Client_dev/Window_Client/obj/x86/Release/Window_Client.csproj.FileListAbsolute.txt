@@ -1,0 +1,80 @@
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\bin\Release\Window_Client.exe.config
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\bin\Release\Window_Client.exe
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\bin\Release\Window_Client.pdb
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\bin\Release\CSkin.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Window_Client.Form1.resources
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Window_Client.Properties.Resources.resources
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Window_Client.csproj.GenerateResource.Cache
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Window_Client.exe
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Window_Client.pdb
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Window_Client.Info_MsgBox.resources
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Window_Client.Main_Panel.resources
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\bin\Release\Interop.APlayer3Lib.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\bin\Release\AxInterop.APlayer3Lib.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Interop.APlayer3Lib.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\AxInterop.APlayer3Lib.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Window_Client.csproj.ResolveComReference.cache
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Window_Client.VideoPlayer.resources
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\bin\Release\Window_Client.exe.manifest
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\bin\Release\APlayer_3.8.6.730.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client\Window_Client\obj\x86\Release\Window_Client.exe.manifest
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\bin\Release\Window_Client.exe.config
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\bin\Release\Window_Client.exe.manifest
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\bin\Release\Window_Client.exe
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\bin\Release\Window_Client.pdb
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\bin\Release\CSkin.dll
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\bin\Release\Interop.APlayer3Lib.dll
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\bin\Release\AxInterop.APlayer3Lib.dll
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\bin\Release\APlayer_3.8.6.730.dll
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Interop.APlayer3Lib.dll
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\AxInterop.APlayer3Lib.dll
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Form1.resources
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Info_MsgBox.resources
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Main_Panel.resources
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.VideoPlayer.resources
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.exe.manifest
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.exe
+C:\Users\Administrator\Desktop\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.pdb
+D:\DEBUG\C#\Window_Client_dev\Window_Client\bin\Release\Window_Client.exe.config
+D:\DEBUG\C#\Window_Client_dev\Window_Client\bin\Release\Window_Client.exe.manifest
+D:\DEBUG\C#\Window_Client_dev\Window_Client\bin\Release\Window_Client.exe
+D:\DEBUG\C#\Window_Client_dev\Window_Client\bin\Release\Window_Client.pdb
+D:\DEBUG\C#\Window_Client_dev\Window_Client\bin\Release\CSkin.dll
+D:\DEBUG\C#\Window_Client_dev\Window_Client\bin\Release\Interop.APlayer3Lib.dll
+D:\DEBUG\C#\Window_Client_dev\Window_Client\bin\Release\AxInterop.APlayer3Lib.dll
+D:\DEBUG\C#\Window_Client_dev\Window_Client\bin\Release\APlayer_3.8.6.730.dll
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Interop.APlayer3Lib.dll
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\AxInterop.APlayer3Lib.dll
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.csproj.ResolveComReference.cache
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Form1.resources
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Info_MsgBox.resources
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Main_Panel.resources
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Properties.Resources.resources
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.VideoPlayer.resources
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.csproj.GenerateResource.Cache
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.exe.manifest
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.exe
+D:\DEBUG\C#\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.pdb
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\bin\Release\Window_Client.exe.config
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\bin\Release\Window_Client.exe.manifest
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\bin\Release\Window_Client.exe
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\bin\Release\Window_Client.pdb
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\bin\Release\CSkin.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\bin\Release\Interop.APlayer3Lib.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\bin\Release\AxInterop.APlayer3Lib.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\bin\Release\APlayer_3.8.6.730.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Interop.APlayer3Lib.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\AxInterop.APlayer3Lib.dll
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.csproj.ResolveComReference.cache
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Form1.resources
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Info_MsgBox.resources
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Main_Panel.resources
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.Properties.Resources.resources
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.VideoPlayer.resources
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.csproj.GenerateResource.Cache
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.exe.manifest
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.exe
+D:\DEBUG\C#\Youtube 视频同步\Window_Client_dev\Window_Client\obj\x86\Release\Window_Client.pdb
